@@ -30,7 +30,7 @@ class Body extends StatelessWidget{
         Card(
           child: Padding(
             padding: EdgeInsets.all(20.0),
-            child: Text('Track: Mobile'),
+            child: Text('Track: Mobile, Coding'),
 
           ),
         )
